@@ -1,0 +1,12 @@
+img {
+width: 500px;
+height:500px;
+}
+
+body{
+    background-color: lavenderblush;
+    color: black;
+}
+img:hover {
+    border-radius: 140px;
+}
